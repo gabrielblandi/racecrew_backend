@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "56OI/llV3L92pFuzCeG6/6k8z5NjRcG3UFyY4sT8jL46QQRlpgQmFlWLXks5p4ttVgRaI+tUE/HfOjLdxIt00A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcelo Gabriel\\Desktop\\raceCrew\\backend\\racrecrew_backend\\racrecrew_backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
